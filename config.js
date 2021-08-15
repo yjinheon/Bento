@@ -115,7 +115,7 @@ const CONFIG = {
         link: 'https://naver.com',
       },
       {
-        name: 'Beekjoon',
+        name: 'Baekjoon',
         link: 'https://www.acmicpc.net/',
       },
     ],
