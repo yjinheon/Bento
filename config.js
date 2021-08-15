@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'JinHeon',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -23,8 +23,8 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherKey: '0f3ff5f94b4fe9da8299ed0604df27b9',
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White' 'OneDark'
   weatherUnit: 'C',
   weatherLatitude: '37.774929',
   weatherLongitude: '-122.419418',
@@ -45,7 +45,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/#inbox',
     },
     {
       id: '3',
@@ -61,15 +61,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'Raindrop',
       icon: 'bookmark',
-      link: 'https://reddit.com',
+      link: 'https://app.raindrop.io/my/0',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -86,19 +86,19 @@ const CONFIG = {
     firstList: [
       {
         name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://youtu.be/Ah392lnFHxM', // Glenn Gould
       },
       {
         name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://youtu.be/-gDinVAmtA0', //nocturne
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Lofi',
+        link: 'https://youtu.be/5qap5aO4i9A', // lofi
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Jazz',
+        link: 'https://youtu.be/_sI_Ps7JSEk', // jazzbar
       },
     ],
     secondList: [
@@ -107,16 +107,16 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Google',
+        link: 'https://google.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Naver',
+        link: 'https://naver.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Beekjoon',
+        link: 'https://www.acmicpc.net/',
       },
     ],
   },
