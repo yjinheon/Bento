@@ -89,6 +89,10 @@ const CONFIG = {
         link: 'https://youtu.be/Ah392lnFHxM', // Glenn Gould
       },
       {
+        name: 'City Pop',
+        link: 'https://youtu.be/ebZup1TKzc8', //city pop
+      },
+      {
         name: 'Classic',
         link: 'https://youtu.be/-gDinVAmtA0', //nocturne
       },
@@ -113,6 +117,10 @@ const CONFIG = {
       {
         name: 'Naver',
         link: 'https://naver.com',
+      },
+      {
+        name: 'Notion',
+        link: 'https://www.notion.so/2d0ba5dea6cc49b69ad68a18efd30fe5?v=d7bdc3587696422b8d6918f458db7a8c',
       },
       {
         name: 'Baekjoon',
