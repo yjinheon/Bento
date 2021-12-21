@@ -90,7 +90,7 @@ const CONFIG = {
       },
       {
         name: 'City Pop',
-        link: 'https://youtu.be/ebZup1TKzc8', //city pop
+        link: 'https://youtu.be/YJy1HK2m7Zg', //city pop
       },
       {
         name: 'Classic',
